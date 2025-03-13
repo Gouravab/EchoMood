@@ -4,6 +4,8 @@ Effortlessly track your moods and get AI-powered suggestions to improve your wel
 
 🚀 About the Project
 EchoMood is a serverless, AI-powered mood tracking application that allows users to log their emotions, view past mood trends, and receive AI-generated mood-improving suggestions. Built using AWS, DynamoDB, API Gateway, and Amazon Bedrock, the project is designed to be lightweight, scalable, and accessible across devices.
+![Building a Scalable Application with React js and AWS Services - visual selection (1)](https://github.com/user-attachments/assets/b05baf38-009f-4e20-87c7-5e01934622ed)
+![Building a Scalable Application with React js and AWS Services - visual selection](https://github.com/user-attachments/assets/393f19d0-1c0f-4393-ad3d-712ce8f23a06)
 
 ✨ Features
 
@@ -26,6 +28,7 @@ API Gateway – Secure API management
 Amazon Bedrock (Titan AI) – AI-generated mood suggestions\
 
 🎯 System Architecture
+
   
 📦 Setup & Installation
 1️⃣ Clone the Repository
